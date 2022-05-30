@@ -1,6 +1,7 @@
-# README #
+# README file for automation project #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+
+This read me file will take us step by step on how to setup this web automation project
 
 ### What is this repository for? ###
 
